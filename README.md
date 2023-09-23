@@ -7,3 +7,7 @@
     - npx tsc                   ( It invokes the typescript compiler )
     - node dist/logAnalyzer.js  ( It runs the converted .js file )
 * In the terminal, you can see the required table generated.
+
+## Screen Shot Of The Output
+
+![Alt text](image.png)
