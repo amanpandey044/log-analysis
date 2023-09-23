@@ -1,7 +1,7 @@
 # log-analysis
 
 ## How to run
-* Clone the repo: <Link>
+* Clone the repo: git@github.com:amanpandey044/log-analysis.git
 * Go to the root directory and open the terminal then run the follwing commands:
     - npm install               ( It will install the required packages )
     - npx tsc                   ( It invokes the typescript compiler )
