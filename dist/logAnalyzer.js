@@ -69,7 +69,7 @@ async function analyseLog(log_file_name) {
         console.log(table.toString());
     });
 }
-const log_files = ["prod-api-prod-out.log", "api-dev-out.log", "api-prod-out.log"];
+const log_files = ["api-prod-out.log"];
 try {
     log_files.forEach(async function (log) {
         await analyseLog(log);
