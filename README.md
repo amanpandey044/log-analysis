@@ -24,4 +24,5 @@
 
 3. api-prod-out.log<br><br>
 <img width="1084" alt="image" src="https://github.com/amanpandey044/log-analysis/assets/140382968/b84eb477-814a-4376-a01b-1429d57aeffd">
-![Alt text](image.png)
+<img width="1140" alt="image" src="https://github.com/amanpandey044/log-analysis/assets/140382968/10a36e58-938a-455f-9cdc-285e01269450">
+
